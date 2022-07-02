@@ -1,0 +1,11 @@
+{
+  "package": {
+    "dependencies": {
+      "gdxjs": "*",
+      "buffer": "*"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "react-app/jest"]
+    }
+  }
+}
